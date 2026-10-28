@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "a147511845d69be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14b1db124240639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf3d55a8550bdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U/1er Semestre/Fundamentos Programacion/Notas Proyecto Final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas Proyecto Final"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cacf3bb5ed386fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1046dce791341dfc",
+        "type": "tabs",
+        "dimension": 72.1132897603486,
+        "children": [
+          {
+            "id": "fecc586273ef4cfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "baa9fdfe210ee54a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9709226234dfe00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "46c5cd5920c9187d",
+        "type": "tabs",
+        "dimension": 27.886710239651414,
+        "children": [
+          {
+            "id": "550b9bb910ed5fc8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bde2c7a4e71ad7da",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b1118256868f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9248d37f5c210c27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U/1er Semestre/Ti's/Busqueda visual E commerce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "59df967bf9e524cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6db4dbfe164ae992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dec67005e96671e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edf3d55a8550bdc0",
+  "lastOpenFiles": [
+    "U/1er Semestre/Fundamentos Programacion/Fundamentos programacion.md",
+    "U/1er Semestre/Fundamentos Programacion/semana 14-20.md",
+    "U/1er Semestre/Fundamentos Programacion/Notas Proyecto Final.md",
+    "U/1er Semestre/Ti's/Unidad 3.md",
+    "U/Mapa curricular.canvas",
+    "U/1er Semestre/Ti's/Unidad 3 Presentaciones.md",
+    "U/1er Semestre/Ti's/Busqueda visual E commerce.md",
+    "U/U DB.base",
+    "U/1er Semestre/Ti's/Unidad 2 presentaciones.md",
+    "Personal/Japanese PopRockR&B.md",
+    "Personal/Music DATA",
+    "markdown-cheat-sheet.md",
+    "Personal",
+    "U/1er Semestre/Ti's/Unidad 2.md",
+    "U/1er Semestre/Sem 1.md",
+    "Untitled.base",
+    "U/1er Semestre/Ti's/TIPOS DE TECNOLOGIAS DE INFORMACION.md",
+    "U/1er Semestre/Ti's/TI.md",
+    "U/1er Semestre/Semana de ingenieria 32.md",
+    "U/1er Semestre/Fundamentos Programacion/2-08-2026.md",
+    "U/U.md",
+    "U/1er Semestre/Ti's/Tareas/Tarea 8 -sep-26.md",
+    "U/1er Semestre/Ti's/Tareas/Tarea 27-ago-26.md",
+    "Plan Curricular - Sistemas computacionales (2023).jpg",
+    "Plan curricular.canvas",
+    "U/1er Semestre/Ti's/Tareas",
+    "U/1er Semestre/Fundamentos Programacion",
+    "U/1er Semestre/Ti's",
+    "U/1er Semestre",
+    "U",
+    "Tareas/3-12-2026.md",
+    "Tareas/3-6-2026.md",
+    "Notas",
+    "Welcome.md"
+  ]
+}

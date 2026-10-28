@@ -1,0 +1,84 @@
+#music
+## SECCIÓN 1: R&B Y NEO-SOUL FEMENINO JAPONÉS - 75% (60 Canciones)
+- [x] **"99"** - LANA
+- [ ] **"Starlit"** - iri
+- [ ] **"Tokyo Funk Sessions"** - Nao Yoshioka
+- [ ] **"B.O.M.B"** - salasa
+- [ ] **"Giri Giri"** - Kahoh
+- [ ] **"Turn It Up"** - LANA
+- [ ] **"Season"** - iri
+- [ ] **"Wonderland"** - iri
+- [ ] **"Sparkle"** - eill
+- [ ] **"23"** - CHANMINA
+- [ ] **"Biren"** - LANA
+- [ ] **"Rollin'"** - Haruy
+- [ ] **"Night Flight"** - Minami
+- [ ] **"Sweet"** - Furui Riho
+- [ ] **"Plastic Love (Cover/R&B Edit)"** - Friday Night Plans
+- [ ] **"Hug"** - SIRUP feat. iri
+- [ ] **"Snooze"** - aimi
+- [ ] **"Prism"** - Shachomu
+- [ ] **"Last Forever"** - JASMINE
+- [ ] **"Labyrinth"** - MONDO GROSSO feat. Hikari Mitsushima
+- [ ] **"Automatic"** - Hikaru Utada
+- [ ] **"First Love"** - Hikaru Utada
+- [ ] **"Tsutsumi Komu You ni..."** - MISIA
+- [ ] **"Everything"** - MISIA
+- [ ] **"Boyfriend -part II-"** - Crystal Kay
+- [ ] **"Koi ni Ochitara"** - Crystal Kay
+- [ ] **"Aitai"** - Miliyah Kato
+- [ ] **"Love Forever"** - Miliyah Kato & Shota Shimizu
+- [ ] **"SPOTLIGHT"** - eill
+- [ ] **"here and there"** - eill
+- [ ] **"Never Grow Up"** - CHANMINA
+- [ ] **"LADY"** - CHANMINA
+- [ ] **"Watashi"** - iri
+- [ ] **"Tapestry"** - iri
+- [ ] **"SICK"** - LANA
+- [ ] **"Pull Up"** - LANA
+- [ ] **"Rebeller"** - Furui Riho
+- [ ] **"LOVED"** - JASMINE
+- [ ] **"Choose Me"** - aimi
+- [ ] **"I'm Here"** - Nao Yoshioka
+- [ ] **"Flavor Of Life"** - Hikaru Utada
+- [ ] **"Distance"** - Hikaru Utada
+- [ ] **"Kimi wa Pelikan"** - kiki vivi lily
+- [ ] **"80denier"** - kiki vivi lily
+- [ ] **"Love is a two way street"** - Nao Yoshioka
+- [ ] **"Mellow"** - iri
+- [ ] **"RUSH"** - RIRI
+- [ ] **"That's My Baby"** - RIRI
+- [ ] **"HONEY"** - RIRI
+- [ ] **"LA LA LA"** - AI
+- [ ] **"Story"** - AI
+- [ ] **"Juicy"** - JASMINE
+- [ ] **"sad to say"** - JASMINE
+- [ ] **"Faker"** - eill
+- [ ] **"20"** - eill
+- [ ] **"Chocolate"** - CHANMINA
+- [ ] **"Angel"** - CHANMINA
+- [ ] **"Super Woman"** - Kahoh
+- [ ] **"Purpose"** - Furui Riho
+- [ ] **"One Room"** - salasa
+
+## SECCIÓN 2: POP-ROCK & J-ROCK (OPENINGS Y ENDINGS FAMOSOS) - 25% (20 Canciones)
+- [ ] **"Idol"** - YOASOBI *(Oshi no Ko)*
+- [ ] **"Gurenge"** - LiSA *(Demon Slayer)*
+- [ ] **"KICK BACK"** - Kenshi Yonezu *(Chainsaw Man)*
+- [ ] **"Kaikaikitan"** - Eve *(Jujutsu Kaisen)*
+- [ ] **"Mixed Nuts"** - Official Hige Dandism *(Spy × Family)*
+- [ ] **"Bling-Bang-Bang-Born"** - Creepy Nuts *(Mashle: Magic and Muscles)*
+- [ ] **"SPECIALZ"** - King Gnu *(Jujutsu Kaisen Season 2)*
+- [ ] **"Ao no Sumika"** - Tatsuya Kitani *(Jujutsu Kaisen Season 2)*
+- [ ] **"Cry Baby"** - Official Hige Dandism *(Tokyo Revengers)*
+- [ ] **"Sparkle"** - RADWIMPS *(Your Name)*
+- [ ] **"LOST IN PARADISE"** - ALI feat. AKLO *(Jujutsu Kaisen)*
+- [ ] **"Anytime Anywhere"** - milet *(Frieren: Beyond Journey's End)*
+- [ ] **"Comedy"** - Gen Hoshino *(Spy × Family)*
+- [ ] **"W●RK"** - millennium parade & Sheena Ringo *(Hell's Paradise)*
+- [ ] **"Mephisto"** - Queen Bee *(Oshi no Ko)*
+- [ ] **"Akuma no Ko"** - Ai Higuchi *(Attack on Titan Season 4 Part 2)*
+- [ ] **"Guren no Yumiya"** - Linked Horizon *(Attack on Titan)*
+- [x] **"New Genesis"** - Ado *(One Piece Film: Red)*
+- [ ] **"Zankyou Sanka"** - Aimer *(Demon Slayer: Entertainment District Arc)*
+- [ ] **"Sugar Song to Bitter Step"** - UNISON SQUARE GARDEN *(Blood Blockade Battlefront)*
